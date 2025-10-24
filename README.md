@@ -1,4 +1,3 @@
-# api-arthlife-chat-v2.js
 // Arthlife — Smart Brand-Scoped Chat (v r6)
 const VERSION = "arthlife-chat:r6";
 
